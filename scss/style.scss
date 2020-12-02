@@ -6,12 +6,10 @@
 $header-height: 3rem;
 $font-semi: 600;
 
-/*===== Colores =====*/
 
 $first-color: #4070f4;
 $second-color: #0e2431;
 
-/*===== Fuente y tipografia =====*/
 
 $body-font: 'Poppins', sans-serif;
 
@@ -25,7 +23,7 @@ $normal-font-size: 0.938rem;
 	$normal-font-size: 1rem;
 }
 
-/*===== Margenes =====*/
+
 $mb-1: 0.5rem;
 $mb-2: 1rem;
 $mb-3: 1.5rem;
@@ -70,7 +68,7 @@ a {
 img {
 	max-width: 100%;
 	height: auto;
-	display: block; // borra los espacios en blanco
+	display: block; 
 }
 
 /*===== CLASS CSS ===== */
